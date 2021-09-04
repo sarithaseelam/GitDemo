@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="126" started-at="2021-08-30T14:11:36 EDT" finished-at="2021-08-30T14:11:37 EDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="126" started-at="2021-08-30T14:11:36 EDT" finished-at="2021-08-30T14:11:37 EDT">
+      <class name="mavenexample.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:mavenexample.SeleniumTest@6f1fba17]" name="BrowserAutomation" duration-ms="0" started-at="2021-08-30T14:11:37 EDT" finished-at="2021-08-30T14:11:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:mavenexample.SeleniumTest@6f1fba17]" name="ElementsUI" duration-ms="0" started-at="2021-08-30T14:11:37 EDT" finished-at="2021-08-30T14:11:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- mavenexample.SeleniumTest -->
+      <class name="mavenexample.RestApiTest">
+        <test-method status="PASS" signature="importTest()[pri:0, instance:mavenexample.RestApiTest@6c3708b3]" name="importTest" duration-ms="1" started-at="2021-08-30T14:11:37 EDT" finished-at="2021-08-30T14:11:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- importTest -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:mavenexample.RestApiTest@6c3708b3]" name="postJira" duration-ms="0" started-at="2021-08-30T14:11:37 EDT" finished-at="2021-08-30T14:11:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- mavenexample.RestApiTest -->
+      <class name="mavenexample.AppiumTest">
+        <test-method status="PASS" signature="iosApp()[pri:0, instance:mavenexample.AppiumTest@2286778]" name="iosApp" duration-ms="8" started-at="2021-08-30T14:11:37 EDT" finished-at="2021-08-30T14:11:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApp -->
+        <test-method status="PASS" signature="nativeAndroidApp()[pri:0, instance:mavenexample.AppiumTest@2286778]" name="nativeAndroidApp" duration-ms="0" started-at="2021-08-30T14:11:37 EDT" finished-at="2021-08-30T14:11:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAndroidApp -->
+      </class> <!-- mavenexample.AppiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
