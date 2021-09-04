@@ -15,5 +15,13 @@ public class RestApiTest {
     {
         System.out.println("Import Test");
     }
+
+
+    @Test
+    public void postJira1()
+    {
+        System.out.println("Post Jira1");
+    }
+
 }
 
